@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SurShoo.data.unityweb",
+"asmCodeUrl": "SurShoo.asm.code.unityweb",
+"asmMemoryUrl": "SurShoo.asm.memory.unityweb",
+"asmFrameworkUrl": "SurShoo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
